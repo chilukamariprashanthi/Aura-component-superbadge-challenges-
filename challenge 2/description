@@ -1,0 +1,10 @@
+
+Build the query-by-example form
+Create a form displaying a dropdown that lists each boat type, along with Search and New buttons, using BoatSearchForm.cmp, BoatSearchResults.cmp, and BoatSearch.cmp, as described in the business requirements.
+
+
+
+Add these Aura components to a Lightning page named Friends with Boats, and activate the page as a new tab in Lightning Experience and the Salesforce App. Lastly, create a Lightning application named FriendswithBoats.app that has a layout that is similar to the Lightning page.
+
+
+*************************************************
